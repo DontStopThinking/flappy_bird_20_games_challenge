@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -38,6 +38,7 @@
   "name":"flappybird_20games",
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"snd_die","path":"sounds/snd_die/snd_die.yy",},},
     {"id":{"name":"snd_hit","path":"sounds/snd_hit/snd_hit.yy",},},
@@ -57,8 +58,8 @@
     {"id":{"name":"spr_9","path":"sprites/spr_9/spr_9.yy",},},
     {"id":{"name":"spr_background_day","path":"sprites/spr_background_day/spr_background_day.yy",},},
     {"id":{"name":"spr_background_night","path":"sprites/spr_background_night/spr_background_night.yy",},},
-    {"id":{"name":"spr_base","path":"sprites/spr_base/spr_base.yy",},},
     {"id":{"name":"spr_bluebird","path":"sprites/spr_bluebird/spr_bluebird.yy",},},
+    {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
     {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
     {"id":{"name":"spr_message","path":"sprites/spr_message/spr_message.yy",},},
     {"id":{"name":"spr_pipe_green","path":"sprites/spr_pipe_green/spr_pipe_green.yy",},},
