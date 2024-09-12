@@ -1,0 +1,8 @@
+# Flappy Bird
+
+Making Flappy Bird.
+
+Game 1 of the [20 Games Challenge](https://20_games_challenge.gitlab.io/games/flappy/)
+
+**Credits**
+- Flappy Bird Assets - https://github.com/samuelcust/flappy-bird-assets
